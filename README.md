@@ -17,7 +17,9 @@ Note:
 
 -> Current commit uses a mock location file mimicking locations
 
--> Use ngrok for tunneling 
+->Can be opened using expo 
+
+-> Use tools like ngrok for tunneling 
 
 Screenshots
 

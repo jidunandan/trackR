@@ -1,7 +1,7 @@
 # trackR
 An app which can be used for recording users location over time and displaying it later on screen.
 
-Build using React Native, Express ,MongoDB.
+Built using React Native(expo), Express ,MongoDB.
 
 
 
@@ -17,7 +17,6 @@ Note:
 
 -> Current commit uses a mock location file mimicking locations
 
-->Can be opened using expo 
 
 -> Use tools like ngrok for tunneling 
 
